@@ -1,0 +1,44 @@
+
+.nav-link:hover {
+    color: #FBBF19 !important;
+    
+}
+.nav-link.active {
+    color: #FBBF19 !important; /* Remplacez cette valeur par la couleur souhaitée */
+    font-weight: bold; /* Optionnel : pour rendre le texte en gras */
+    
+}
+.card-img-overlay h5{
+    color: #009640;
+    margin-left: 10px;
+    
+}
+.card-img-overlay p{
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+@media (min-width: 768px) {
+    .display-md-3 {
+      font-size: 3.5rem; /* Ajustez cette valeur selon vos besoins */
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .display-lg-2 {
+      font-size: 2rem; /* Ajustez cette valeur selon vos besoins */
+    }
+  }
+  .section2{
+    text-align: center;
+  }
+  .section3{
+    text-align: center;
+    background-color: #F4FFF8;
+  }
+  .section4{
+    text-align: center;
+  }
+  

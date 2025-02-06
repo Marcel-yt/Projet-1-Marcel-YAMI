@@ -1,0 +1,21 @@
+.nav-bar{
+    padding: 5px 50PX 5px 50px;
+    background-color: aquamarine;
+    
+    
+}
+.nav-link:hover {
+    color: #FBBF19 !important;
+    
+}
+.nav-link.active {
+    color: #FBBF19 !important; /* Remplacez cette valeur par la couleur souhaitée */
+    font-weight: bold; /* Optionnel : pour rendre le texte en gras */
+    
+}
+
+
+
+p{
+    font-size:clamp(0.4rem,1.3vw,2rem);
+}
