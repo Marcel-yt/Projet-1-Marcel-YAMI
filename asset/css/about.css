@@ -13,3 +13,82 @@
     font-weight: bold; /* Optionnel : pour rendre le texte en gras */
     
 }
+
+
+
+.section1{
+    text-align: center;
+    background-color: #FFFFFF;
+  }
+
+  .section1 p{
+    text-align: start;
+    
+  }
+  .section1 h4{
+    color: #FBBF19;
+    
+  }
+
+  .section2{
+    text-align: center;
+    background-color: #F4FFF8;
+  }
+
+
+.card-img-top{
+    margin-top: -50px;
+}
+.section3{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.personnel{
+    width: 335px;
+    height: 200px;
+}
+
+        /* Debut du footer */
+        .footer{
+            background-color: #01220F;
+          }
+          
+          .footer a {
+            text-decoration: none;
+            
+            color: inherit; /* Pour hériter de la couleur du parent */
+          }
+          
+          .footer ul {
+            list-style: none; /* Enlève les points de liste */
+            padding: 0; /* Enlève le padding par défaut */
+          }
+          
+          .footer ul a{
+            color: rgba(255, 255, 255, 0.7); 
+          }
+          
+          .descript p{ 
+            color: rgba(255, 255, 255, 0.7); 
+          }
+          
+          .descript{
+            color: #ffffff;
+          
+            font-size: 1rem;
+            
+          }
+          
+          .footer ul a:hover{
+            color: #FBBF19;
+          }
+          
+          .allrights{
+            color: rgba(255, 255, 255, 0.8);
+            text-align: center;
+          }
+          .highlight{
+            color: #FBBF19;
+          }
+          /* Fin du footer */
